@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    color: red;
+   }
+   h2 {
+   text-align: center;
+   color: rgb(255, 255, 255);
+   }
+   p {
+    text-align: center;
+    color: red;
+   }
+
+   body {
+    background-color: rgb(241, 241, 234);
+   } 
+
+   .contenedor-imagen {
+    text-align: center; /* Centrar horizontalmente */
+  }
+  
+  /* La imagen */
+  .imagen-centrada {
+    display: inline-block;
+    margin: 0 auto; /* Centrar horizontalmente */
+    width: 300px; /* Nuevo ancho de la imagen */
+    height: auto;}
